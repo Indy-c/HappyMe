@@ -1,0 +1,11 @@
+# Operating system metadata
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Local logs and temporary files
+*.log
+*.tmp
