@@ -9,3 +9,6 @@ Thumbs.db
 # Local logs and temporary files
 *.log
 *.tmp
+
+# Dependencies
+node_modules/

@@ -1,0 +1,26 @@
+{
+  "name": "happyme",
+  "version": "1.0.0",
+  "description": "HappyMe is a responsive, accessible, one-minute self-reflection quiz that helps people discover their happiness style: Connection Seeker, Peace Finder, Creative Spark, or Little Explorer.",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indy-c/HappyMe.git"
+  },
+  "keywords": ["happiness", "quiz", "self-reflection", "wellbeing"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Indy-c/HappyMe/issues"
+  },
+  "homepage": "https://github.com/Indy-c/HappyMe#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
